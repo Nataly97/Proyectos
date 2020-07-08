@@ -1,0 +1,26 @@
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Nueva carpeta\Ejemplo Herencia\bin\Debug\Ejemplo Herencia.exe.config
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Nueva carpeta\Ejemplo Herencia\bin\Debug\Ejemplo Herencia.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Nueva carpeta\Ejemplo Herencia\bin\Debug\Ejemplo Herencia.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Nueva carpeta\Ejemplo Herencia\obj\Debug\Ejemplo Herencia.csprojAssemblyReference.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Nueva carpeta\Ejemplo Herencia\obj\Debug\Ejemplo_Herencia.Form1.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Nueva carpeta\Ejemplo Herencia\obj\Debug\Ejemplo_Herencia.Properties.Resources.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Nueva carpeta\Ejemplo Herencia\obj\Debug\Ejemplo Herencia.csproj.GenerateResource.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Nueva carpeta\Ejemplo Herencia\obj\Debug\Ejemplo Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Nueva carpeta\Ejemplo Herencia\obj\Debug\Ejemplo Herencia.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Nueva carpeta\Ejemplo Herencia\obj\Debug\Ejemplo Herencia.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Nueva carpeta\Ejemplo Herencia\bin\Debug\Clases.dll
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Nueva carpeta\Ejemplo Herencia\bin\Debug\Clases.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Nueva carpeta\Ejemplo Herencia\obj\Debug\Ejemplo Herencia.csproj.CopyComplete
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Ejemplo Herencias - Clase\Ejemplo Herencia\bin\Debug\Ejemplo Herencia.exe.config
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Ejemplo Herencias - Clase\Ejemplo Herencia\bin\Debug\Ejemplo Herencia.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Ejemplo Herencias - Clase\Ejemplo Herencia\bin\Debug\Ejemplo Herencia.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Ejemplo Herencias - Clase\Ejemplo Herencia\bin\Debug\Clases.dll
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Ejemplo Herencias - Clase\Ejemplo Herencia\bin\Debug\Clases.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Ejemplo Herencias - Clase\Ejemplo Herencia\obj\Debug\Ejemplo Herencia.csprojAssemblyReference.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Ejemplo Herencias - Clase\Ejemplo Herencia\obj\Debug\Ejemplo_Herencia.Form1.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Ejemplo Herencias - Clase\Ejemplo Herencia\obj\Debug\Ejemplo_Herencia.Properties.Resources.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Ejemplo Herencias - Clase\Ejemplo Herencia\obj\Debug\Ejemplo Herencia.csproj.GenerateResource.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Ejemplo Herencias - Clase\Ejemplo Herencia\obj\Debug\Ejemplo Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Ejemplo Herencias - Clase\Ejemplo Herencia\obj\Debug\Ejemplo Herencia.csproj.CopyComplete
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Ejemplo Herencias - Clase\Ejemplo Herencia\obj\Debug\Ejemplo Herencia.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Ejemplo Herencias - Clase\Ejemplo Herencia\obj\Debug\Ejemplo Herencia.pdb

@@ -1,0 +1,20 @@
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Cuenta Bancaria\bin\Debug\Cuenta Bancaria.exe.config
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Cuenta Bancaria\bin\Debug\Cuenta Bancaria.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Cuenta Bancaria\bin\Debug\Cuenta Bancaria.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Cuenta Bancaria\obj\Debug\Cuenta Bancaria.csprojAssemblyReference.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Cuenta Bancaria\obj\Debug\Cuenta_Bancaria.Form1.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Cuenta Bancaria\obj\Debug\Cuenta_Bancaria.Properties.Resources.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Cuenta Bancaria\obj\Debug\Cuenta Bancaria.csproj.GenerateResource.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Cuenta Bancaria\obj\Debug\Cuenta Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Cuenta Bancaria\obj\Debug\Cuenta Bancaria.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Cuenta Bancaria\obj\Debug\Cuenta Bancaria.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Cuenta Bancaria - Taller\bin\Debug\Cuenta Bancaria.exe.config
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Cuenta Bancaria - Taller\bin\Debug\Cuenta Bancaria.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Cuenta Bancaria - Taller\bin\Debug\Cuenta Bancaria.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Cuenta Bancaria - Taller\obj\Debug\Cuenta Bancaria.csprojAssemblyReference.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Cuenta Bancaria - Taller\obj\Debug\Cuenta_Bancaria.Form1.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Cuenta Bancaria - Taller\obj\Debug\Cuenta_Bancaria.Properties.Resources.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Cuenta Bancaria - Taller\obj\Debug\Cuenta Bancaria.csproj.GenerateResource.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Cuenta Bancaria - Taller\obj\Debug\Cuenta Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Cuenta Bancaria - Taller\obj\Debug\Cuenta Bancaria.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Cuenta Bancaria - Taller\obj\Debug\Cuenta Bancaria.pdb

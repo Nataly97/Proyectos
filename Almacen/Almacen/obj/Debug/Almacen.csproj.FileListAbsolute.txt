@@ -1,0 +1,37 @@
+D:\Nataly\Nueva carpeta (2)\Almacen\Almacen\bin\Debug\Almacen.exe.config
+D:\Nataly\Nueva carpeta (2)\Almacen\Almacen\bin\Debug\Almacen.exe
+D:\Nataly\Nueva carpeta (2)\Almacen\Almacen\bin\Debug\Almacen.pdb
+D:\Nataly\Nueva carpeta (2)\Almacen\Almacen\obj\Debug\Almacen.Form1.resources
+D:\Nataly\Nueva carpeta (2)\Almacen\Almacen\obj\Debug\Almacen.Principal.resources
+D:\Nataly\Nueva carpeta (2)\Almacen\Almacen\obj\Debug\Almacen.Properties.Resources.resources
+D:\Nataly\Nueva carpeta (2)\Almacen\Almacen\obj\Debug\Almacen.csproj.GenerateResource.Cache
+D:\Nataly\Nueva carpeta (2)\Almacen\Almacen\obj\Debug\Almacen.csproj.CoreCompileInputs.cache
+D:\Nataly\Nueva carpeta (2)\Almacen\Almacen\obj\Debug\Almacen.exe
+D:\Nataly\Nueva carpeta (2)\Almacen\Almacen\obj\Debug\Almacen.pdb
+D:\Nataly\Nueva carpeta (2)\Almacen\Almacen\obj\Debug\Almacen.csprojResolveAssemblyReference.cache
+D:\Nataly\Nueva carpeta (2)\Almacen\Almacen\obj\Debug\Almacen.Nomina.resources
+D:\Nataly\Nueva carpeta (2)\Almacen\Almacen\obj\Debug\Almacen.Productos.resources
+C:\Users\Nataly Martínez\Downloads\Almacen\Almacen\Almacen\obj\Debug\Almacen.csprojAssemblyReference.cache
+C:\Users\Nataly Martínez\Downloads\Almacen\Almacen\Almacen\obj\Debug\Almacen.exe
+C:\Users\Nataly Martínez\Downloads\Almacen\Almacen\Almacen\obj\Debug\Almacen.pdb
+C:\Users\Nataly Martínez\Downloads\Almacen\Almacen\Almacen\bin\Debug\Almacen.exe.config
+C:\Users\Nataly Martínez\Downloads\Almacen\Almacen\Almacen\bin\Debug\Almacen.exe
+C:\Users\Nataly Martínez\Downloads\Almacen\Almacen\Almacen\bin\Debug\Almacen.pdb
+C:\Users\Nataly Martínez\Downloads\Almacen\Almacen\Almacen\obj\Debug\Almacen.Form1.resources
+C:\Users\Nataly Martínez\Downloads\Almacen\Almacen\Almacen\obj\Debug\Almacen.Nomina.resources
+C:\Users\Nataly Martínez\Downloads\Almacen\Almacen\Almacen\obj\Debug\Almacen.Principal.resources
+C:\Users\Nataly Martínez\Downloads\Almacen\Almacen\Almacen\obj\Debug\Almacen.Productos.resources
+C:\Users\Nataly Martínez\Downloads\Almacen\Almacen\Almacen\obj\Debug\Almacen.Properties.Resources.resources
+C:\Users\Nataly Martínez\Downloads\Almacen\Almacen\Almacen\obj\Debug\Almacen.csproj.GenerateResource.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Introducción .NET\Almacen\Almacen\Almacen\bin\Debug\Almacen.exe.config
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Introducción .NET\Almacen\Almacen\Almacen\bin\Debug\Almacen.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Introducción .NET\Almacen\Almacen\Almacen\bin\Debug\Almacen.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Introducción .NET\Almacen\Almacen\Almacen\obj\Debug\Almacen.csprojAssemblyReference.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Introducción .NET\Almacen\Almacen\Almacen\obj\Debug\Almacen.Form1.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Introducción .NET\Almacen\Almacen\Almacen\obj\Debug\Almacen.Principal.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Introducción .NET\Almacen\Almacen\Almacen\obj\Debug\Almacen.Productos.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Introducción .NET\Almacen\Almacen\Almacen\obj\Debug\Almacen.Properties.Resources.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Introducción .NET\Almacen\Almacen\Almacen\obj\Debug\Almacen.csproj.GenerateResource.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Introducción .NET\Almacen\Almacen\Almacen\obj\Debug\Almacen.csproj.CoreCompileInputs.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Introducción .NET\Almacen\Almacen\Almacen\obj\Debug\Almacen.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Introducción .NET\Almacen\Almacen\Almacen\obj\Debug\Almacen.pdb

@@ -1,0 +1,30 @@
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Piedra, Papel o Tijera\Piedra, Papel o Tijera\bin\Debug\Piedra, Papel o Tijera.exe.config
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Piedra, Papel o Tijera\Piedra, Papel o Tijera\bin\Debug\Piedra, Papel o Tijera.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Piedra, Papel o Tijera\Piedra, Papel o Tijera\bin\Debug\Piedra, Papel o Tijera.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Piedra, Papel o Tijera\Piedra, Papel o Tijera\obj\Debug\Piedra, Papel o Tijera.csprojAssemblyReference.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Piedra, Papel o Tijera\Piedra, Papel o Tijera\obj\Debug\Piedra__Papel_o_Tijera.Form1.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Piedra, Papel o Tijera\Piedra, Papel o Tijera\obj\Debug\Piedra__Papel_o_Tijera.Properties.Resources.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Piedra, Papel o Tijera\Piedra, Papel o Tijera\obj\Debug\Piedra, Papel o Tijera.csproj.GenerateResource.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Piedra, Papel o Tijera\Piedra, Papel o Tijera\obj\Debug\Piedra, Papel o Tijera.csproj.CoreCompileInputs.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Piedra, Papel o Tijera\Piedra, Papel o Tijera\obj\Debug\Piedra, Papel o Tijera.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Piedra, Papel o Tijera\Piedra, Papel o Tijera\obj\Debug\Piedra, Papel o Tijera.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Piedra, Papel o Tijera\Piedra, Papel o Tijera\bin\Debug\Piedra, Papel o Tijera.exe.config
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Piedra, Papel o Tijera\Piedra, Papel o Tijera\bin\Debug\Piedra, Papel o Tijera.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Piedra, Papel o Tijera\Piedra, Papel o Tijera\bin\Debug\Piedra, Papel o Tijera.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Piedra, Papel o Tijera\Piedra, Papel o Tijera\obj\Debug\Piedra, Papel o Tijera.csprojAssemblyReference.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Piedra, Papel o Tijera\Piedra, Papel o Tijera\obj\Debug\Piedra__Papel_o_Tijera.Form1.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Piedra, Papel o Tijera\Piedra, Papel o Tijera\obj\Debug\Piedra__Papel_o_Tijera.Properties.Resources.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Piedra, Papel o Tijera\Piedra, Papel o Tijera\obj\Debug\Piedra, Papel o Tijera.csproj.GenerateResource.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Piedra, Papel o Tijera\Piedra, Papel o Tijera\obj\Debug\Piedra, Papel o Tijera.csproj.CoreCompileInputs.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Piedra, Papel o Tijera\Piedra, Papel o Tijera\obj\Debug\Piedra, Papel o Tijera.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Piedra, Papel o Tijera\Piedra, Papel o Tijera\obj\Debug\Piedra, Papel o Tijera.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Piedra, Papel o Tijera - Taller\Piedra, Papel o Tijera\bin\Debug\Piedra, Papel o Tijera.exe.config
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Piedra, Papel o Tijera - Taller\Piedra, Papel o Tijera\bin\Debug\Piedra, Papel o Tijera.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Piedra, Papel o Tijera - Taller\Piedra, Papel o Tijera\bin\Debug\Piedra, Papel o Tijera.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Piedra, Papel o Tijera - Taller\Piedra, Papel o Tijera\obj\Debug\Piedra, Papel o Tijera.csprojAssemblyReference.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Piedra, Papel o Tijera - Taller\Piedra, Papel o Tijera\obj\Debug\Piedra__Papel_o_Tijera.Form1.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Piedra, Papel o Tijera - Taller\Piedra, Papel o Tijera\obj\Debug\Piedra__Papel_o_Tijera.Properties.Resources.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Piedra, Papel o Tijera - Taller\Piedra, Papel o Tijera\obj\Debug\Piedra, Papel o Tijera.csproj.GenerateResource.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Piedra, Papel o Tijera - Taller\Piedra, Papel o Tijera\obj\Debug\Piedra, Papel o Tijera.csproj.CoreCompileInputs.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Piedra, Papel o Tijera - Taller\Piedra, Papel o Tijera\obj\Debug\Piedra, Papel o Tijera.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Piedra, Papel o Tijera - Taller\Piedra, Papel o Tijera\obj\Debug\Piedra, Papel o Tijera.pdb

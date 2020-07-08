@@ -1,0 +1,45 @@
+D:\Nataly\Marzo 14\SisTienda\SisTienda\bin\Debug\SisTienda.exe.config
+D:\Nataly\Marzo 14\SisTienda\SisTienda\bin\Debug\SisTienda.exe
+D:\Nataly\Marzo 14\SisTienda\SisTienda\bin\Debug\SisTienda.pdb
+D:\Nataly\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.csprojResolveAssemblyReference.cache
+D:\Nataly\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.Form1.resources
+D:\Nataly\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.Properties.Resources.resources
+D:\Nataly\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.csproj.GenerateResource.Cache
+D:\Nataly\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.csproj.CoreCompileInputs.cache
+D:\Nataly\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.exe
+D:\Nataly\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.pdb
+D:\Nataly\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.Principal.resources
+C:\Users\Nataly Martínez\Downloads\Marzo 14\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.csprojAssemblyReference.cache
+C:\Users\Nataly Martínez\Downloads\Marzo 14\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.exe
+C:\Users\Nataly Martínez\Downloads\Marzo 14\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.pdb
+C:\Users\Nataly Martínez\Downloads\Marzo 14\Marzo 14\SisTienda\SisTienda\bin\Debug\SisTienda.exe.config
+C:\Users\Nataly Martínez\Downloads\Marzo 14\Marzo 14\SisTienda\SisTienda\bin\Debug\SisTienda.exe
+C:\Users\Nataly Martínez\Downloads\Marzo 14\Marzo 14\SisTienda\SisTienda\bin\Debug\SisTienda.pdb
+C:\Users\Nataly Martínez\Downloads\Marzo 14\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.Form1.resources
+C:\Users\Nataly Martínez\Downloads\Marzo 14\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.Principal.resources
+C:\Users\Nataly Martínez\Downloads\Marzo 14\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.Properties.Resources.resources
+C:\Users\Nataly Martínez\Downloads\Marzo 14\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.csproj.GenerateResource.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Marzo 14\Marzo 14\SisTienda\SisTienda\bin\Debug\SisTienda.exe.config
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Marzo 14\Marzo 14\SisTienda\SisTienda\bin\Debug\SisTienda.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Marzo 14\Marzo 14\SisTienda\SisTienda\bin\Debug\SisTienda.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Marzo 14\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.csprojAssemblyReference.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Marzo 14\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.Form1.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Marzo 14\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.Principal.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Marzo 14\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.Properties.Resources.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Marzo 14\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.csproj.GenerateResource.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Marzo 14\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.csproj.CoreCompileInputs.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Marzo 14\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Marzo 14\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Marzo 14\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.frmProductos.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\Marzo 14\Marzo 14\SisTienda\SisTienda\bin\Debug\SisTienda.exe.config
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\Marzo 14\Marzo 14\SisTienda\SisTienda\bin\Debug\SisTienda.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\Marzo 14\Marzo 14\SisTienda\SisTienda\bin\Debug\SisTienda.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\Marzo 14\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.csprojAssemblyReference.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\Marzo 14\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.Form1.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\Marzo 14\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.frmProductos.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\Marzo 14\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.Principal.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\Marzo 14\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.Properties.Resources.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\Marzo 14\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.csproj.GenerateResource.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\Marzo 14\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.csproj.CoreCompileInputs.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\Marzo 14\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\Marzo 14\Marzo 14\SisTienda\SisTienda\obj\Debug\SisTienda.pdb

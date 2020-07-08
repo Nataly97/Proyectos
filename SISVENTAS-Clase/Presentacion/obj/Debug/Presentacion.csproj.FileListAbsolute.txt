@@ -1,0 +1,33 @@
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\SISVENTAS\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\SISVENTAS\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\SISVENTAS\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\SISVENTAS\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\SISVENTAS\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\SISVENTAS\Presentacion\obj\Debug\Presentacion.frmVentas.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\SISVENTAS\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\SISVENTAS\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\SISVENTAS\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\SISVENTAS\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\SISVENTAS\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\SISVENTAS\Presentacion\bin\Debug\Negocios.dll
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\SISVENTAS\Presentacion\bin\Debug\Datos.dll
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\SISVENTAS\Presentacion\bin\Debug\Negocios.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\SISVENTAS\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\SISVENTAS\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\SISVENTAS - Clase\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\SISVENTAS - Clase\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\SISVENTAS - Clase\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\SISVENTAS - Clase\Presentacion\bin\Debug\Negocios.dll
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\SISVENTAS - Clase\Presentacion\bin\Debug\Datos.dll
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\SISVENTAS - Clase\Presentacion\bin\Debug\Negocios.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\SISVENTAS - Clase\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\SISVENTAS - Clase\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\SISVENTAS - Clase\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\SISVENTAS - Clase\Presentacion\obj\Debug\Presentacion.frmVentas.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\SISVENTAS - Clase\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\SISVENTAS - Clase\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\SISVENTAS - Clase\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\SISVENTAS - Clase\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\SISVENTAS - Clase\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\SISVENTAS - Clase\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\SISVENTAS - Clase\Presentacion\obj\Debug\Presentacion.frmClientes.resources

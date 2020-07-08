@@ -1,0 +1,29 @@
+C:\Users\Nataly Martínez\Desktop\CENSA\Taller\obj\Debug\Taller.csprojAssemblyReference.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Taller\obj\Debug\Taller.Form1.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Taller\obj\Debug\Taller.Properties.Resources.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Taller\obj\Debug\Taller.csproj.GenerateResource.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Taller\bin\Debug\Taller.exe.config
+C:\Users\Nataly Martínez\Desktop\CENSA\Taller\bin\Debug\Taller.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Taller\bin\Debug\Taller.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Taller\obj\Debug\Taller.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Taller\obj\Debug\Taller.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Taller  de conocimiento Programación en .NET -Práctica\bin\Debug\Taller.exe.config
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Taller  de conocimiento Programación en .NET -Práctica\bin\Debug\Taller.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Taller  de conocimiento Programación en .NET -Práctica\bin\Debug\Taller.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Taller  de conocimiento Programación en .NET -Práctica\obj\Debug\Taller.csprojAssemblyReference.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Taller  de conocimiento Programación en .NET -Práctica\obj\Debug\Taller.Form1.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Taller  de conocimiento Programación en .NET -Práctica\obj\Debug\Taller.Properties.Resources.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Taller  de conocimiento Programación en .NET -Práctica\obj\Debug\Taller.csproj.GenerateResource.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Taller  de conocimiento Programación en .NET -Práctica\obj\Debug\Taller.csproj.CoreCompileInputs.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Taller  de conocimiento Programación en .NET -Práctica\obj\Debug\Taller.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Taller  de conocimiento Programación en .NET -Práctica\obj\Debug\Taller.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\Taller  de conocimiento Programación en .NET -Práctica\bin\Debug\Taller.exe.config
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\Taller  de conocimiento Programación en .NET -Práctica\bin\Debug\Taller.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\Taller  de conocimiento Programación en .NET -Práctica\bin\Debug\Taller.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\Taller  de conocimiento Programación en .NET -Práctica\obj\Debug\Taller.csprojAssemblyReference.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\Taller  de conocimiento Programación en .NET -Práctica\obj\Debug\Taller.Form1.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\Taller  de conocimiento Programación en .NET -Práctica\obj\Debug\Taller.Properties.Resources.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\Taller  de conocimiento Programación en .NET -Práctica\obj\Debug\Taller.csproj.GenerateResource.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\Taller  de conocimiento Programación en .NET -Práctica\obj\Debug\Taller.csproj.CoreCompileInputs.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\Taller  de conocimiento Programación en .NET -Práctica\obj\Debug\Taller.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\Taller  de conocimiento Programación en .NET -Práctica\obj\Debug\Taller.pdb

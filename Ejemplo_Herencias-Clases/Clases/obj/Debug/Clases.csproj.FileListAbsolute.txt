@@ -1,0 +1,12 @@
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Nueva carpeta\Clases\bin\Debug\Clases.dll
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Nueva carpeta\Clases\bin\Debug\Clases.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Nueva carpeta\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Nueva carpeta\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Nueva carpeta\Clases\obj\Debug\Clases.dll
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Nueva carpeta\Clases\obj\Debug\Clases.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Ejemplo Herencias - Clase\Clases\bin\Debug\Clases.dll
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Ejemplo Herencias - Clase\Clases\bin\Debug\Clases.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Ejemplo Herencias - Clase\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Ejemplo Herencias - Clase\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Ejemplo Herencias - Clase\Clases\obj\Debug\Clases.dll
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación Avanzada .NET\Ejemplo Herencias - Clase\Clases\obj\Debug\Clases.pdb

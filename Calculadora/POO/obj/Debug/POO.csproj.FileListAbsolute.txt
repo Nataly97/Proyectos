@@ -1,0 +1,20 @@
+D:\Nataly\POO\POO\bin\Debug\POO.exe.config
+D:\Nataly\POO\POO\bin\Debug\POO.exe
+D:\Nataly\POO\POO\bin\Debug\POO.pdb
+D:\Nataly\POO\POO\obj\Debug\POO.csprojResolveAssemblyReference.cache
+D:\Nataly\POO\POO\obj\Debug\POO.Form1.resources
+D:\Nataly\POO\POO\obj\Debug\POO.Properties.Resources.resources
+D:\Nataly\POO\POO\obj\Debug\POO.csproj.GenerateResource.Cache
+D:\Nataly\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+D:\Nataly\POO\POO\obj\Debug\POO.exe
+D:\Nataly\POO\POO\obj\Debug\POO.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\POO\POO\POO\bin\Debug\POO.exe.config
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\POO\POO\POO\bin\Debug\POO.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\POO\POO\POO\bin\Debug\POO.pdb
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\POO\POO\POO\obj\Debug\POO.csprojAssemblyReference.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\POO\POO\POO\obj\Debug\POO.Form1.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\POO\POO\POO\obj\Debug\POO.Properties.Resources.resources
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\POO\POO\POO\obj\Debug\POO.csproj.GenerateResource.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\POO\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\POO\POO\POO\obj\Debug\POO.exe
+C:\Users\Nataly Martínez\Desktop\CENSA\Desarrollo\Programación .NET\POO\POO\POO\obj\Debug\POO.pdb
